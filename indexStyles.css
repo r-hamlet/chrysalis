@@ -33,7 +33,6 @@
 .eventsList{
     display: flex;
     flex-direction: row;
-    width: 50%;
     justify-content: space-evenly;
 }
 
