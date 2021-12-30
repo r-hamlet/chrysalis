@@ -1,0 +1,33 @@
+.podInfoBar{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    width: 100%;
+    background-color: gray;
+}
+
+.podInfo{
+    display: flex;
+    width: 40%;
+    text-align: center;
+    color: white;
+    align-items: center;
+}
+
+.podPicBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: white;
+    width: 100%;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.picPanel{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}

@@ -53,3 +53,25 @@
     background-color: gray;
     color: white;
 }
+
+.signUpBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.textBar{
+    width: 100%;
+}
+
+.contactPanel{
+    width: 30%;
+}
+
+.newsletterPanel{
+    width: 30%;
+}
+
+.bottomLinkPanel{
+    width: 30%;
+}
