@@ -1,0 +1,21 @@
+.infoBar{
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    color: white;
+}
+
+.picPanel{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.infoPanel{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    margin-right: 50px;
+}
